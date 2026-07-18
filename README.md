@@ -1,35 +1,75 @@
 # 🚀 AI Engineering Bootcamp
 
-Welcome to my AI Engineering learning journey.
+<div align="center">
 
-## 👨‍💻 About Me
+# 👨‍💻 Priyansh Agrawal
 
-Hi, I'm **Priyansh Agrawal**.
+### AI Engineer in Progress 🚀
 
-I'm learning Artificial Intelligence, Generative AI, LangChain, LangGraph, RAG, FastAPI, Docker, and modern AI Engineering.
-
-My goal is to become an AI Engineer and build production-ready AI applications.
+Learning • Building • Deploying Production AI Systems
 
 ---
 
-# 📚 Learning Roadmap
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-- ✅ Lesson 01 – Introduction to Generative AI
-- ⏳ Lesson 02 – Tokens & Tokenization
-- ⏳ Lesson 03 – Embeddings
-- ⏳ Lesson 04 – Transformers
-- ⏳ Lesson 05 – Prompt Engineering
-- ⏳ Lesson 06 – LangChain Fundamentals
-- ⏳ Lesson 07 – RAG
-- ⏳ Lesson 08 – LangGraph
-- ⏳ Lesson 09 – AI Agents
-- ⏳ Lesson 10 – FastAPI
-- ⏳ Lesson 11 – Docker
-- ⏳ Lesson 12 – Deployment
+</div>
 
 ---
 
-# 🛠 Technologies
+# 🎯 Goal
+
+Become a Production-Level AI Engineer capable of building:
+
+- AI Assistants
+- RAG Systems
+- AI Agents
+- Multi-Agent Workflows
+- AI APIs
+- Enterprise AI Applications
+
+---
+
+# 📚 Current Roadmap
+
+| Module | Status |
+|---------|:------:|
+| Introduction to GenAI | ✅ |
+| Tokens | ⏳ |
+| Embeddings | ⏳ |
+| Transformers | ⏳ |
+| Prompt Engineering | ⏳ |
+| LangChain | ⏳ |
+| RAG | ⏳ |
+| LangGraph | ⏳ |
+| AI Agents | ⏳ |
+| FastAPI | ⏳ |
+| Docker | ⏳ |
+| Deployment | ⏳ |
+
+---
+
+# 📂 Repository Structure
+
+```text
+AI-Engineering-Bootcamp/
+│
+├── lessons/
+├── mini-projects/
+├── projects/
+├── prompts/
+├── resources/
+├── weekly-log/
+└── assets/
+```
+
+---
+
+# 🛠 Tech Stack
 
 - Python
 - Git
@@ -41,26 +81,44 @@ My goal is to become an AI Engineer and build production-ready AI applications.
 - FAISS
 - FastAPI
 - Docker
+- VS Code
+- Cursor
+- Claude Code
 
 ---
 
-# 📂 Repository Structure
+# 📅 Weekly Progress
 
-```text
-AI-Engineering-Bootcamp
-│
-├── lessons/
-├── mini-projects/
-├── projects/
-├── resources/
-├── prompts/
-│
-├── README.md
-└── .gitignore
-```
+| Week | Goal | Status |
+|------|------|:------:|
+| Week 1 | AI Foundations | 🟢 |
+| Week 2 | Tokenization | ⚪ |
+| Week 3 | Embeddings | ⚪ |
+| Week 4 | LangChain Basics | ⚪ |
 
 ---
 
-## 🎯 Goal
+# 📈 Progress
 
-Build 10–15 production-ready AI projects while learning modern AI engineering.
+- ✅ Lesson 01 Completed
+- 🚧 Lesson 02 In Progress
+- ⏳ Mini Project 01
+- ⏳ Project 01
+
+---
+
+# 🌟 Long-Term Projects
+
+- AI CLI Assistant
+- Prompt Playground
+- PDF Chatbot
+- Research Assistant
+- Resume Analyzer
+- AI Coding Assistant
+- Multi-Agent Research System
+- Enterprise RAG
+- Personal Knowledge Base
+
+---
+
+> "Every expert was once a beginner who refused to quit."
